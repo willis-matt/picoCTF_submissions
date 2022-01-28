@@ -1,0 +1,402 @@
+[
+    {
+        "flag": "picoCTF{s4n1ty_v3r1f13d_1a94e0f9}",
+        "timestamp": "2022-01-20T02:13:28.360225Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 147,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW}next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW}",
+        "timestamp": "2022-01-20T02:16:04.204568Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 144,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "s4n1ty_v3r1f13d_1a94e0f9",
+        "timestamp": "2022-01-20T02:13:18.305477Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 147,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "icoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW}",
+        "timestamp": "2022-01-20T02:14:52.609498Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 144,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSLW}",
+        "timestamp": "2022-01-20T02:20:01.382441Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 144,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW}",
+        "timestamp": "2022-01-20T02:20:59.785790Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 144,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSBLW}",
+        "timestamp": "2022-01-20T02:20:47.740728Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 144,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{61}",
+        "timestamp": "2022-01-20T02:58:26.204298Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 58,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{11000}",
+        "timestamp": "2022-01-20T02:59:22.143976Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 86,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{p]",
+        "timestamp": "2022-01-20T02:54:23.903259Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 22,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{p}",
+        "timestamp": "2022-01-20T02:54:39.592554Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 22,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{312}",
+        "timestamp": "2022-01-20T02:57:51.576681Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 58,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{101010}",
+        "timestamp": "2022-01-20T03:01:19.832812Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 86,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{FCFIFDFE}",
+        "timestamp": "2022-01-20T03:47:54.575461Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 35,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{digital_plumb3r_06e9d954}",
+        "timestamp": "2022-01-20T03:49:53.726987Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 48,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF(th4ts_4_l0}",
+        "timestamp": "2022-01-20T03:07:50.261781Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 161,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{b1scu1ts_4nd_gr4vy_616f7182}",
+        "timestamp": "2022-01-20T03:19:46.534671Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 170,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{nEtCat_Mast3ry_284be8f7}",
+        "timestamp": "2022-01-20T03:21:01.347904Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 34,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{g00d_k1tty!_n1c3_k1tty!_f2d7cafa}LF",
+        "timestamp": "2022-01-20T03:28:07.853287Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 156,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{g00d_k1tty!_n1c3_k1tty!_f2d7cafa}",
+        "timestamp": "2022-01-20T03:28:10.594753Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 156,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}",
+        "timestamp": "2022-01-20T03:37:30.582061Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 18,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{6C696D65}",
+        "timestamp": "2022-01-20T03:47:33.413055Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 35,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{s4n1ty_c4t}",
+        "timestamp": "2022-01-20T04:05:05.741837Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 244,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{1nd3nt1ty_cr1515_05a3c38c}",
+        "timestamp": "2022-01-20T04:29:04.210671Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 239,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{4ll_y0ur_b4535_8730f5cd}",
+        "timestamp": "2022-01-20T04:31:42.463175Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 239,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{run_s4n1ty_run}",
+        "timestamp": "2022-01-20T04:04:33.272024Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 250,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{gl17ch_m3_n07_898a3fa6}",
+        "timestamp": "2022-01-20T04:17:31.537074Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 242,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{1nd3nt1ty_cr1515_05a3c38c}",
+        "timestamp": "2022-01-20T04:29:12.430175Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 240,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{3qu4l1ty_n0t_4551gnm3nt_b4d595d9}",
+        "timestamp": "2022-01-20T04:33:00.056234Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 241,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{4ppl1c4710n_r3c31v3d_91ab255f}",
+        "timestamp": "2022-01-20T04:38:36.666427Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 243,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{tr45h_51ng1ng_b0539d96}",
+        "timestamp": "2022-01-20T04:57:21.029435Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 246,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{m45h_fl1ng1ng_64840799}",
+        "timestamp": "2022-01-20T05:02:26.693566Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 247,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{7h3_r04d_l355_7r4v3l3d_ae743140}",
+        "timestamp": "2022-01-20T05:07:08.192199Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 251,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{c0d3b00k_455157_197a982c}",
+        "timestamp": "2022-01-20T05:08:05.721982Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 238,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{4p0110_1n_7h3_h0us3_192ee2db}",
+        "timestamp": "2022-01-20T04:52:12.556573Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 166,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{545h_r1ng1ng_7719ae74}",
+        "timestamp": "2022-01-20T04:54:49.627047Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 245,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{fl45h_5pr1ng1ng_d770d48c}",
+        "timestamp": "2022-01-20T05:26:45.184654Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 248,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{h45h_sl1ng1ng_36e992a6}",
+        "timestamp": "2022-01-20T05:41:09.663163Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 249,
+        "user": 170942,
+        "profile": 28170,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{thenumbersmason}",
+        "timestamp": "2022-01-27T01:17:09.628155Z",
+        "correct": true,
+        "suspicious": false,
+        "challenge": 68,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    },
+    {
+        "flag": "picoCTF{A:4@r%uL`M-^M0c0AbcM-MFE0d_a3hgc3N}",
+        "timestamp": "2022-01-27T01:13:00.748287Z",
+        "correct": false,
+        "suspicious": false,
+        "challenge": 175,
+        "user": 170942,
+        "profile": null,
+        "team": null
+    }
+]
